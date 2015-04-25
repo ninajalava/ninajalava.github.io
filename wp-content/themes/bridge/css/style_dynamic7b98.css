@@ -1,0 +1,713 @@
+
+    /* Webkit */
+    ::selection {
+    background: #900dff;
+    }
+    /* Gecko/Mozilla */
+    ::-moz-selection {
+    background: #900dff;
+    }
+
+
+    h1 a:hover,
+    .box_image_holder .box_icon .fa-stack i.fa-stack-base,
+    .q_percentage_with_icon,
+    .filter_holder ul li.active span,
+    .filter_holder ul li:hover span,
+    .q_tabs .tabs-nav li.active a:hover,
+    .q_tabs .tabs-nav li a:hover,
+    .q_accordion_holder.accordion .ui-accordion-header:hover,
+    .q_accordion_holder.accordion.with_icon .ui-accordion-header i,
+    .testimonials .testimonial_text_inner p.testimonial_author span.author_company,
+    .testimonial_content_inner .testimonial_author .company_position,
+    .q_icon_with_title.center .icon_holder .font_awsome_icon i:hover,
+    .q_box_holder.with_icon .box_holder_icon_inner .fa-stack i.fa-stack-base,
+    .q_icon_with_title.boxed .icon_holder .fa-stack,
+    .q_font_awsome_icon i:hover,
+    .q_progress_bars_icons_inner .bar.active i.fa-circle,
+    .q_list.number ul>li:before,
+    .q_social_icon_holder:hover i.simple_social,
+    .social_share_dropdown ul li :hover i,
+    .social_share_list_holder ul li i:hover,
+    .latest_post_inner .post_infos a:hover,
+    .q_masonry_blog article .q_masonry_blog_post_info a:hover,
+    .blog_holder article:not(.format-quote):not(.format-link) .post_info a:hover,
+    .latest_post_inner .post_comments:hover i,
+    .blog_holder article .post_description a:hover,
+    .blog_holder article .post_description .post_comments:hover,
+    .blog_like a:hover i,
+    .blog_like a.liked i,
+    article:not(.format-quote):not(.format-link) .blog_like a:hover span,
+    .comment_holder .comment .text .replay,
+    .comment_holder .comment .text .comment-reply-link,
+    .header-widget.widget_nav_menu ul.menu li a:hover,
+    aside .widget a:hover,
+    aside .widget.posts_holder li:hover,
+    .q_steps_holder .circle_small:hover span,
+    .q_steps_holder .circle_small:hover .step_title,
+    .header_top #lang_sel > ul > li > a:hover,
+    .header_top #lang_sel_click > ul > li> a:hover,
+    .header_top #lang_sel_list ul li a.lang_sel_sel,
+    .header_top #lang_sel_list ul li a:hover,
+    aside .widget #lang_sel a.lang_sel_sel:hover,
+    aside .widget #lang_sel_click a.lang_sel_sel:hover,
+    aside .widget #lang_sel ul ul a:hover,
+    aside .widget #lang_sel_click ul ul a:hover,
+    aside .widget #lang_sel_list li a.lang_sel_sel,
+    aside .widget #lang_sel_list li a:hover,
+    .service_table_inner li.service_table_title_holder i,
+        .q_team .q_team_social_holder .q_social_icon_holder:hover i.simple_social
+	{
+        color: #900dff !important;
+    }
+	h2 a:hover,
+	h3 a:hover,
+	h4 a:hover,
+	h5 a:hover,
+	h6 a:hover,
+	p a:hover,
+	.portfolio_share .social_share_holder a:hover,
+	.breadcrumb .current,
+	.breadcrumb a:hover,
+	.q_icon_with_title .icon_with_title_link,
+	.q_counter_holder span.counter,
+	.q_font_awsome_icon i,
+	.q_dropcap,
+	.q_counter_holder span.counter,
+	nav.mobile_menu ul li a:hover,
+	nav.mobile_menu ul li.active > a,
+	.q_progress_bars_icons_inner.square .bar.active i,
+	.q_progress_bars_icons_inner.circle .bar.active i,
+	.q_progress_bars_icons_inner.normal .bar.active i,
+	.q_font_awsome_icon_stack .fa-circle,
+	.footer_top .q_social_icon_holder:hover i.simple_social,
+	.more_facts_button:hover,
+	.box_holder_icon .fa-stack i,
+	.blog_large_image_simple .minimalist_date,
+	nav.content_menu ul li.active:hover i,
+	nav.content_menu ul li:hover i,
+	nav.content_menu ul li.active:hover a,
+	nav.content_menu ul li:hover a
+	{
+
+		color: #900dff;
+	}
+
+    .box_image_with_border:hover,
+    .qbutton:hover,
+    .load_more a:hover,
+    .blog_load_more_button a:hover,
+    #submit_comment:hover,
+    .drop_down .wide .second ul li .qbutton:hover,
+    .drop_down .wide .second ul li ul li .qbutton:hover,
+    .qbutton.white:hover,
+    .qbutton.green,
+    .portfolio_slides .hover_feature_holder_inner .qbutton:hover,
+    .testimonials_holder.light .flex-direction-nav a:hover,
+    .q_progress_bars_icons_inner.square .bar.active .bar_noactive,
+    .q_progress_bars_icons_inner.square .bar.active .bar_active,
+    .q_progress_bars_icons_inner.circle .bar.active .bar_noactive,
+    .q_progress_bars_icons_inner.circle .bar.active .bar_active,
+    .widget.widget_search form.form_focus,
+    .q_steps_holder .circle_small_wrapper,
+    .animated_icon_inner span.animated_icon_back i,
+	.blog_holder article.format-link .post_text:hover .post_text_inner,
+	.blog_holder article.format-quote .post_text:hover .post_text_inner,
+        input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover {
+        border-color: #900dff    }
+
+    .q_icon_list i,
+    .q_progress_bar .progress_content,
+    .q_progress_bars_vertical .progress_content_outer .progress_content,
+    .qbutton:hover,
+	.post-password-form input[type='submit']:hover,
+    .load_more a:hover,
+    .blog_load_more_button a:hover,
+    #submit_comment:hover,
+    .drop_down .wide .second ul li .qbutton:hover,
+    .drop_down .wide .second ul li ul li .qbutton:hover,
+    .qbutton.white:hover,
+    .qbutton.green,
+    .call_to_action,
+    .highlight,
+    .testimonials_holder.light .flex-direction-nav a:hover,
+    .q_dropcap.circle,
+    .q_dropcap.square,
+    .q_message,
+    .q_price_table.active .active_text,
+    .q_icon_with_title.boxed .icon_holder .fa-stack,
+    .q_font_awsome_icon_square,
+    .q_icon_with_title.square .icon_holder .fa-stack:hover,
+    .box_holder_icon_inner.square .fa-stack:hover,
+    .box_holder_icon_inner.circle .fa-stack:hover,
+    .circle .icon_holder .fa-stack:hover,
+    .q_list.number.circle_number ul>li:before,
+    .q_social_icon_holder.circle_social .fa-stack:hover,
+    .social_share_dropdown ul li.share_title,
+    .latest_post_holder .latest_post_date .post_publish_day,
+    .q_masonry_blog article.format-link:hover,
+    .q_masonry_blog article.format-quote:hover,
+    #wp-calendar td#today,
+    .vc_text_separator.full div,
+    .mejs-controls .mejs-time-rail .mejs-time-current,
+    .mejs-controls .mejs-time-rail .mejs-time-handle,
+    .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+    .q_pie_graf_legend ul li .color_holder,
+    .q_line_graf_legend ul li .color_holder,
+    .q_team .q_team_text_inner .separator,
+    .circle_item .circle:hover,
+    .qode_call_to_action.container,
+    .qode_carousels .flex-control-paging li a.flex-active,
+    .animated_icon_inner span.animated_icon_back i,
+
+    	.q_circles_holder .q_circle_inner2:hover,
+    input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover {
+        background-color: #900dff    }
+
+
+    .q_circles_holder .q_circle_inner2:hover,
+	.blog_holder article.format-link .post_text:hover .post_text_inner,
+	.blog_holder article.format-quote .post_text:hover .post_text_inner {
+        background-color: #900dff !important;
+        border-color: #900dff !important;
+    }
+
+
+    .ajax_loader .pulse,
+    .ajax_loader .double_pulse .double-bounce1, .ajax_loader .double_pulse .double-bounce2,
+    .ajax_loader .cube,
+    .ajax_loader .rotating_cubes .cube1, .ajax_loader .rotating_cubes .cube2,
+    .ajax_loader .stripes > div,
+    .ajax_loader .wave > div,
+    .ajax_loader .two_rotating_circles .dot1, .ajax_loader .two_rotating_circles .dot2,
+    .ajax_loader .five_rotating_circles .container1 > div, .ajax_loader .five_rotating_circles .container2 > div, .ajax_loader .five_rotating_circles .container3 > div{
+    background-color: #900dff;
+    }
+
+    body{
+    	    	    	font-family: 'Montserrat', sans-serif;
+    	    	 color: #0a0a0a;     	 font-size: 12px;     	font-weight: 400;    }
+            body,
+		.wrapper,
+        .content,
+        .full_width,
+		.more_facts_holder,
+		.comment_holder .comment #respond textarea,
+		.comment_holder .comment #respond input[type='text'],
+		.content .container
+		{
+        	background-color:#ffffff;
+        }
+    .projects_holder article .portfolio_description,
+.blog_holder.masonry article .post_text .post_text_inner,
+.q_team,
+.price_table_inner,
+.latest_post_holder.boxes > ul > li,
+.q_counter_holder.boxed_counter {
+	background-color: #ffffff;
+}
+span.highlight {
+	background-color: #900dff;
+}
+
+.header_bottom,
+.header_top {
+	background-color: rgba(255,255,255,0);
+}
+
+
+.header_bottom,
+.header_top {
+    border-bottom: 0;
+}
+
+.header_bottom {
+    box-shadow: none;
+}
+
+.header_top .right .inner > div:first-child,
+.header_top .right .inner > div,
+.header_top .left .inner > div:last-child,
+.header_top .left .inner > div {
+    border: none;
+}
+
+
+
+	@media only screen and (min-width: 1000px) {
+		.content .container .container_inner.default_template_holder,
+		.content .container .container_inner.page_container_inner
+		{
+			padding-top:60px;
+		}
+	}
+header.fixed.scrolled .header_bottom,
+header.fixed.scrolled .header_top {
+	background-color: rgba(255,255,255,0) !important;
+}
+
+
+header.scrolled .header_bottom,
+header.scrolled .header_top {
+    border-bottom: 0;
+}
+
+header.scrolled .header_bottom {
+    box-shadow: none;
+}
+
+header.scrolled .header_top .right .inner > div:first-child,
+header.scrolled .header_top .right .inner > div,
+header.scrolled .header_top .left .inner > div:last-child,
+header.scrolled .header_top .left .inner > div {
+    border: none;
+}
+
+
+
+header.sticky .header_bottom{
+	background-color: rgba(255,255,255,0) !important;
+}
+
+
+.header_top{
+	background-color: rgba(255,255,255,0);
+}
+header.sticky .header_top{
+	background-color: rgba(0,0,0,0);
+}
+
+
+
+						.content{
+				margin-top: -70px;
+			}
+				
+	
+.logo_wrapper,
+.side_menu_button,
+.shopping_cart_inner
+{
+	height: 70px;
+}
+.content.content_top_margin{
+	margin-top: 70px !important;
+}
+
+header:not(.centered_logo) .header_fixed_right_area {
+    line-height: 70px;
+}
+
+<!---->
+<!--.drop_down .second,-->
+<!--.drop_down .second.bellow_header-->
+<!--{-->
+<!--	top: --><!--px;-->
+<!--}-->
+
+header.scrolled .logo_wrapper,
+header.scrolled .side_menu_button{
+	height: 70px;
+}
+
+header.scrolled nav.main_menu ul li a {
+	line-height: 70px;
+}
+
+header.scrolled .drop_down .second{
+	top: 70px;
+}
+
+
+    @media only screen and (min-width: 1000px){
+        header.fixed_hiding.centered_logo.fixed_hiding .header_inner_left,
+        header.fixed_hiding .q_logo_hidden a{
+            height: 70px;
+        }
+    }
+
+        header.fixed_hiding .q_logo a,
+        header.fixed_hiding .q_logo{
+            max-height: 38px;
+        }
+
+
+    .touch section.parallax_section_holder{
+		height: auto !important;
+		min-height: 300px;  
+		background-position: center top !important;  
+		background-attachment: scroll;
+        background-size: cover;
+	}
+nav.main_menu > ul > li > a{
+	line-height: 70px;
+}
+
+
+    .drop_down .second .inner ul,
+    .drop_down .second .inner ul li ul,
+	.shopping_cart_dropdown,
+    li.narrow .second .inner ul,
+	.header_top .right #lang_sel ul ul,
+    .drop_down .wide .second ul li.show_widget_area_in_popup .widget{
+    background-color: #000000;
+    background-color: rgba(0,0,0,1);
+    }
+
+
+nav.main_menu > ul > li > a{
+			font-family: 'Montserrat', sans-serif;
+		 font-size: 12px;     		 font-weight: 700; 	 letter-spacing: 6px; 	 text-transform: uppercase; }
+
+
+
+
+
+
+.drop_down .second .inner > ul > li > a,
+.drop_down .second .inner > ul > li > h3,
+.drop_down .wide .second .inner > ul > li > h3,
+.drop_down .wide .second .inner > ul > li > a,
+.drop_down .wide .second ul li ul li.menu-item-has-children > a,
+.drop_down .wide .second .inner ul li.sub ul li.menu-item-has-children > a,
+.drop_down .wide .second .inner > ul li.sub .flexslider ul li  h5 a,
+.drop_down .wide .second .inner > ul li .flexslider ul li  h5 a,
+.drop_down .wide .second .inner > ul li.sub .flexslider ul li  h5,
+.drop_down .wide .second .inner > ul li .flexslider ul li  h5,
+.header_top #lang_sel ul li ul li a {
+	 color: #818181; 							}
+	.drop_down .wide .second .inner>ul>li>a
+	{
+	 color: #ffffff; 								}
+.drop_down .wide .second .inner ul li.sub ul li a,
+.drop_down .wide .second ul li ul li a,
+.drop_down .second .inner ul li.sub ul li a,
+.drop_down .wide .second ul li ul li a,
+.drop_down .wide .second .inner ul li.sub .flexslider ul li .menu_recent_post,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post a,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post a{
+	 color: #818181;  							}
+.drop_down .wide.icons .second i{
+     color: #818181;  }
+.drop_down .second .inner ul li.sub ul li a:hover,
+.drop_down .wide .second ul li.show_widget_area_in_popup:hover .popup_wrapper > a,
+.drop_down .second .inner ul li ul li a:hover,
+.drop_down .wide.icons .second a:hover i
+{
+	color: #ffffff !important;
+}
+
+
+
+header.sticky nav.main_menu > ul > li > a, 
+header.light.sticky nav.main_menu > ul > li > a, 
+header.dark.sticky nav.main_menu > ul > li > a{
+	 color: #303030; 					}
+
+header.sticky .side_menu_button a, 
+header.sticky .side_menu_button a:hover{
+     color: #303030; }
+
+
+nav.mobile_menu ul li a,
+nav.mobile_menu ul li h3{
+			font-family: 'Josefin Sans', sans-serif;
+		 font-size: 14px; 			 font-weight: 700; 	}
+
+
+
+
+	@media only screen and (max-width: 1000px){
+		.header_bottom,
+		nav.mobile_menu{
+			background-color: #333 !important;
+		}
+	}
+
+h1,
+.title h1 {
+						    letter-spacing: 6px;     }
+.title h1{
+	color: #ffffff; 					font-weight: 400; }
+
+	.title.title_size_large h1{
+	font-size: 28px; 		font-weight: 400; 	}
+h2,
+h2 a{
+	color: #555555; 			font-family: 'Montserrat', sans-serif;
+		font-size: 12px; 	line-height: 50px; 		font-weight: 400;     letter-spacing: 6px; 	text-transform: uppercase; }
+h3,h3 a{
+	color: #555555; 		font-family: 'Montserrat', sans-serif;
+		font-size: 18px; 			font-weight: 400;     letter-spacing: 6px; 	}
+h4,
+h4 a{
+	color: #959595; 			font-family: 'Montserrat', sans-serif;
+		font-size: 12px; 			font-weight: 600;     letter-spacing: 6px; 	text-transform: uppercase; }
+h5,
+h5 a,
+.q_icon_with_title .icon_text_holder h5.icon_title {
+	color: #555555; 		font-family: 'Montserrat', sans-serif;
+		font-size: 18px; 	line-height: 24px; 		font-weight: 400;     letter-spacing: 6px; 	text-transform: uppercase; }
+h6, h6 a {
+	color: #900dff; 		font-family: 'Permanent Marker', sans-serif;
+		font-size: 18px; 			font-weight: 800; 	letter-spacing: 6px; 	text-transform: uppercase; }
+
+    p{
+    	color: #0a0a0a;    	    	font-size: 12px;    	line-height: 24px;    	    	font-weight: 400;    	    	    }
+    .filter_holder ul li span,
+    blockquote h5,
+    .q_social_icon_holder i.simple_social,
+    .header-widget.widget_nav_menu ul.menu li a,
+    .side_menu a,
+    .side_menu li,
+    .side_menu span,
+    .side_menu p,
+    .side_menu .widget.widget_rss li a.rsswidget,
+    .side_menu #wp-calendar caption,
+    .side_menu #wp-calendar th, 
+    .side_menu #wp-calendar td,
+    aside .widget #lang_sel_list li a,
+    aside .widget #lang_sel li a,
+    aside .widget #lang_sel_click li a,
+    section.side_menu #lang_sel_list li a,
+    section.side_menu #lang_sel li a,
+    section.side_menu #lang_sel_click li a,
+    footer #lang_sel_list li a,
+    footer #lang_sel li a,
+    footer #lang_sel_click li a,
+    footer #lang_sel_list.lang_sel_list_horizontal a,
+    footer #lang_sel_list.lang_sel_list_vertical a,
+    .side_menu #lang_sel_list.lang_sel_list_horizontal a,
+    .side_menu #lang_sel_list.lang_sel_list_vertical a,
+    #lang_sel_footer a{
+    	color: #0a0a0a;    }
+    .header_top #lang_sel > ul > li > a, 
+    .header_top #lang_sel_click > ul > li> a,
+    footer #lang_sel ul li a,
+    footer #lang_sel ul ul a,
+    footer #lang_sel_click ul li a,
+    footer #lang_sel_click ul ul a,
+    footer #lang_sel_click ul ul a span,
+    section.side_menu #lang_sel ul li a,
+    section.side_menu #lang_sel ul ul a,
+    section.side_menu #lang_sel ul ul a:visited,
+    section.side_menu #lang_sel_click > ul > li > a,
+    section.side_menu #lang_sel_click ul ul a,
+    section.side_menu #lang_sel_click ul ul a:visited{
+    	color: #0a0a0a !important;    }
+    a, p a{
+	color: #900dff;		font-weight: 400;	}
+
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,
+.q_icon_with_title .icon_with_title_link,
+.blog_holder article .post_description a:hover,
+.blog_holder.masonry article .post_info a:hover,
+.breadcrumb .current,
+.breadcrumb a:hover,
+.portfolio_social_holder a:hover,
+.latest_post_inner .post_infos a:hover{
+    color: #900dff;}
+a:hover,p a:hover,
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,
+.q_tabs .tabs-nav li a:hover,
+.q_icon_with_title .icon_with_title_link:hover,
+.blog_holder article .post_description a:hover,
+.blog_holder.masonry article .post_info a:hover,
+.portfolio_social_holder a:hover,
+.latest_post_inner .post_infos a:hover{
+	color: #555555;	}
+
+
+
+	.separator.small,
+	.wpb_column>.wpb_wrapper .separator.small {
+		height: 1px;background-color: #ef577a;width: 43px;	}
+	
+
+
+
+.qbutton,
+.qbutton.medium,
+#submit_comment,
+.load_more a,
+.blog_load_more_button a,
+.post-password-form input[type='submit'],
+input.wpcf7-form-control.wpcf7-submit,
+input.wpcf7-form-control.wpcf7-submit:not([disabled])
+	{
+	color: #ffffff; 		font-family: 'Josefin Sans', sans-serif;
+	
+    	border-color: #ef577a; 
+		font-size: 14px; 		line-height: 33px; 		height: 33px; 			font-weight: 400; 		background-color: #ef577a; 		border-radius: 2px; 		-moz-border-radius: 2px; 		-webkit-border-radius: 2px; 		letter-spacing: 0px; 	 border-width: 1px;}
+
+	.qbutton:hover,
+	.qbutton.medium:hover,
+	#submit_comment:hover,
+	.load_more a:hover,
+	.blog_load_more_button a:hover,
+	.post-password-form input[type='submit']:hover,
+	input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover
+	{
+	 color: #ffffff; 
+	 border-color: #ef6e8c	}
+
+	.qbutton:hover,
+	#submit_comment:hover,
+	.load_more a:hover,
+	.blog_load_more_button a:hover,
+	.post-password-form input[type='submit']:hover,
+	input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover
+	{
+		 background-color: #ef6e8c; 			}
+	.qbutton.small{
+
+		font-size: 12px; 								
+	}
+	.qbutton.white{
+
+		border-color: #ef577a; 		color: #ffffff; 		background-color: #ef577a; 	}
+	.qbutton.white:hover,
+	.portfolio_slides .hover_feature_holder_inner .qbutton:hover {
+
+		border-color: #ef6e8c; 		color: #ffffff; 		background-color: #ef6e8c; 	}
+	.testimonials_holder .flex-direction-nav a{
+		border-radius: 50px;
+	}
+	.testimonials .testimonial_text_inner p{
+		font-size: 20px; 	}
+	.q_counter_holder span.counter{
+			font-weight: 600; 				}
+	.q_progress_bar .progress_number{
+		font-size: 15px; 		font-weight: 600; 	}
+	.q_percentage{
+		font-size: 30px; 		font-weight: 600; 	}
+
+
+	.footer_top_holder,	footer #lang_sel > ul > li > a,	footer #lang_sel_click > ul > li > a{
+		background-color: #ffffff;
+	}
+	footer #lang_sel ul ul a,footer #lang_sel_click ul ul a,footer #lang_sel ul ul a:visited,footer #lang_sel_click ul ul a:visited{
+		background-color: #ffffff !important;
+	}
+.footer_top .column_inner > div h2,
+.footer_top .column_inner > div h3,
+.footer_top .column_inner > div h4,
+.footer_top .column_inner > div h5,
+.footer_top .column_inner > div h6 {
+	color:#0a0a0a;
+}
+	.footer_top,
+	.footer_top p,
+    .footer_top span,
+    .footer_top li,
+    .footer_top .textwidget,
+    .footer_top .widget_recent_entries>ul>li>span {
+		color: #0a0a0a;
+	}
+
+
+.footer_bottom, .footer_bottom span, .footer_bottom p, .footer_bottom p a, #lang_sel_footer ul li a,
+footer #lang_sel > ul > li > a,
+footer #lang_sel_click > ul > li > a,
+footer #lang_sel a.lang_sel_sel,
+footer #lang_sel_click a.lang_sel_sel,
+footer #lang_sel ul ul a,
+footer #lang_sel_click ul ul a,
+footer #lang_sel ul ul a:visited,
+footer #lang_sel_click ul ul a:visited,
+footer #lang_sel_list.lang_sel_list_horizontal a,
+footer #lang_sel_list.lang_sel_list_vertical a,
+#lang_sel_footer a,
+.footer_bottom ul li a {
+	color:#ffffff;
+}
+
+
+
+
+
+	.blog_holder.blog_large_image article:not(.format-quote):not(.format-link) .post_text .post_text_inner{
+		padding-left:0;
+		padding-right:0;
+		background-color:transparent;
+	}
+
+
+
+
+
+
+
+
+    .side_menu_button > a,
+    .mobile_menu_button span{ color: #303030; }
+
+    .popup_menu .line,
+    .popup_menu .line:after, .popup_menu .line:before{
+        background-color: #303030;
+    }
+ 
+  
+
+
+
+	.vertical_menu_area{
+		text-align:left;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+        .popup_menu_holder{
+        background-color: rgba(0,0,0,0.8);
+    }
+
+
+
+	.cf7_custom_style_1  input.wpcf7-form-control.wpcf7-submit,
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]) {
+		background-color: #ffffff;border-width: 0px;color: #c26f9a;font-size: 10px;font-weight: 700;letter-spacing: 2px;text-transform: uppercase;height: 42px;line-height: 42px;	}
+
+	.cf7_custom_style_1  input.wpcf7-form-control.wpcf7-submit:hover,
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover {
+		background-color: #ffffff;	}
+
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text,
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number,
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date,
+	.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea,
+	.cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select,
+	.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz{
+		background-color: rgba(255,255,255,0);border-color: rgba(255,255,255,1);border-width: 1px;border-style:solid;color: #ffffff;font-family: Josefin Sans;font-size: 18px;font-weight: 300;letter-spacing: 0px;text-transform: none;padding-top: 12px;padding-right: 15px;padding-bottom: 12px;padding-left: 15px;margin-top: 30px;	}
+
+
+
+
+
+
+
+
+
+
+	.cf7_custom_style_1 ::-webkit-input-placeholder{
+		color: #ffffff;opacity:1;	}
+	.cf7_custom_style_1 :-moz-placeholder{
+		color: #ffffff;opacity:1;	}
+	.cf7_custom_style_1 ::-moz-placeholder{
+		color: #ffffff;opacity:1;	}
+	.cf7_custom_style_1 :-ms-input-placeholde{
+		color: #ffffff;opacity:1;	}
+	.title .separator { background-color: #ffffff; }
+	
+
+
+
