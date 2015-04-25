@@ -151,8 +151,8 @@ function showContactMap() {
 }
 
 var no_ajax_pages = [];
-var qode_root = 'http://clairemariondesign.com/';
-var theme_root = 'http://clairemariondesign.com/wp-content/themes/bridge/';
+var qode_root = 'http://ninajalava.github.io';
+var theme_root = 'http://ninajalava.github.io/wp-content/themes/bridge/';
 var header_style_admin = "";
 if(typeof no_ajax_obj !== 'undefined') {
 	no_ajax_pages = no_ajax_obj.no_ajax_pages;
