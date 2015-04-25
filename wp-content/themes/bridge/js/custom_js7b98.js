@@ -9,6 +9,8 @@ $j(document).ready(function() {
 $j(window).scroll(function(){
         $j( ".q_logo" ).addClass( "hidden" );
     })
+
+
 $j(".buttonport").click(function(){
 if ( $j( "#info" ).is( ":hidden" ) ) {
    $j("#info").show(500, "easeInQuart");
@@ -22,16 +24,16 @@ if ( $j( "#info" ).is( ":visible" ) ) {
 $j(".buttonport").click(function(){
 if ( $j( ".aboutme" ).is( ":hidden" ) ) {
    $j(".aboutme").show(500, "easeInQuart");
-$j("#resume").show(500, "easeInQuart");
+//$j("#resume").show(500, "easeInQuart");
 } else {
 if ( $j( ".aboutme" ).is( ":visible" )  && $j( ".resume" ).is( ":visible" ) ) {
  $j(".aboutme").hide(500, "easeInQuart");
-$j("#resume").hide(500, "easeInQuart")
- $j(".resume").hide(500, "easeInQuart");
+//$j("#resume").hide(500, "easeInQuart")
+//$j(".resume").hide(500, "easeInQuart");
 }else{
 if ( $j( ".aboutme" ).is( ":visible" )  && $j( ".resume" ).is( ":hidden" ) ) {
  $j(".aboutme").hide(500, "easeInQuart");
-$j("#resume").hide(500, "easeInQuart")
+//$j("#resume").hide(500, "easeInQuart")
 }
 
 }
@@ -60,8 +62,6 @@ if ( $j( "#contactinfo" ).is( ":visible" ) ) {
  }  
 });
 });
-
-
 
     
 });
