@@ -24,7 +24,7 @@ if ( $j( "#info" ).is( ":visible" ) ) {
 $j(".buttonport").click(function(){
 if ( $j( ".aboutme" ).is( ":hidden" ) ) {
    $j(".aboutme").show(500, "easeInQuart");
-   $j("#resume").hide(500, "easeInQuart");
+   $j(".resume").hide(500, "easeInQuart");
 } else {
 if ( $j( ".aboutme" ).is( ":visible" )) {
  $j(".aboutme").hide(500, "easeInQuart");
