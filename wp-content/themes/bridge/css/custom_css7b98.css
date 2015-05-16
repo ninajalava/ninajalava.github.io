@@ -9,8 +9,8 @@ position: relative;
 letter-spacing: 1px;
 text-transform: uppercase;
 font-weight: 600;
-font-size: 11px;
-letter-spacing: 6px !important;}
+font-size: 14px;
+letter-spacing: 3px !important;}
 .filter_outer{text-align:left !important;}
 .portfolio_home{top:30px;}
 
@@ -94,7 +94,7 @@ margin: 0px auto !important;}
 div.portfolio_single, div.content{width: 90% !important;
 margin: 0 auto !important;}
 .norm_container_inner.visible{border: 0px !important;}
-.title.title_size_large h1{font-size:19px !important;}
+.title.title_size_large h1{font-size:22px !important;}
 .title{height: 30px !important;}
 .grid_section .section_inner{width: 90% !important;
 margin: 0 auto !important;}

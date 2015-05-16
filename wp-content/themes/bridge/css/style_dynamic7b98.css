@@ -429,10 +429,10 @@ h1,
 .title h1 {
 						    letter-spacing: 6px;     }
 .title h1{
-	color: #ffffff; 					font-weight: 400; }
+	color: #ffffff; font-size: 20 px;					font-weight: 400; }
 
 	.title.title_size_large h1{
-	font-size: 28px; 		font-weight: 400; 	}
+	font-size: 50 px; 		font-weight: 400; 	}
 h2,
 h2 a{
 	color: #555555; 			font-family: 'Montserrat', sans-serif;
@@ -443,7 +443,7 @@ h3,h3 a{
 h4,
 h4 a{
 	color: #959595; 			font-family: 'Montserrat', sans-serif;
-		font-size: 12px; 			font-weight: 600;     letter-spacing: 6px; 	text-transform: uppercase; }
+		font-size: 12x; 			font-weight: 600;     letter-spacing: 6px; 	text-transform: uppercase; }
 h5,
 h5 a,
 .q_icon_with_title .icon_text_holder h5.icon_title {
@@ -454,7 +454,7 @@ h6, h6 a {
 		font-size: 18px; 			font-weight: 800; 	letter-spacing: 6px; 	text-transform: uppercase; }
 
     p{
-    	color: #0a0a0a;    	    	font-size: 12px;    	line-height: 24px;    	    	font-weight: 400;    	    	    }
+    	color: #0a0a0a;    	    	font-size: 16px;    	line-height: 24px;    	    	font-weight: 400;    	    	    }
     .filter_holder ul li span,
     blockquote h5,
     .q_social_icon_holder i.simple_social,
