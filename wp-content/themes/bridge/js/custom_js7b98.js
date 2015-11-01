@@ -58,10 +58,20 @@ if ( $j( "#contactinfo" ).is( ":hidden" )  ) {
 } else {
 if ( $j( "#contactinfo" ).is( ":visible" ) ) {
  $j("#contactinfo").hide(500, "easeInQuart");
+ //custom extra
 }
  }  
 });
 });
 
+$j("#shop").click(function(){
+if ( $j( "#shopinfo" ).is( ":hidden" )  ) {
+   $j("#shopinfo").show(500, "easeInQuart");
+} else {
+if ( $j( "#shopinfo" ).is( ":visible" ) ) {
+ $j("#shopinfo").hide(500, "easeInQuart");
+}
+ }  
+});
     
 });
