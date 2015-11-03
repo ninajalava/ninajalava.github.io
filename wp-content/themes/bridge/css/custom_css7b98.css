@@ -9,6 +9,7 @@ position: relative;
 letter-spacing: 1px;
 text-transform: uppercase;
 font-weight: 600;
+font-weight: 600;
 font-size: 14px;
 letter-spacing: 3px !important;}
 .filter_outer{text-align:left !important;}
@@ -296,6 +297,9 @@ a.lightbox.qbutton.small.white{display:none;}
 .resume{visibility:visible;display:none;padding-bottom: 50px;width: 75%;}
 #resume{visibility:visible;}
 #contactinfo{visibility:visible; display:none; padding-bottom: 30px;}
+#shopinfo{visibility:visible; display:none; padding-bottom: 30px;}
+#retailerinfo{visibility:visible; display:none; padding-bottom: 30px;}
+
 
 #info{position: relative;
 display:none;
