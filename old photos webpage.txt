@@ -1,0 +1,350 @@
+<!-- ------------------- -->  
+<!-- HERE ARE THE PHOTOS -->  
+<!-- ------------------- -->  
+<!--<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/scarf1.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> tortoise scarves for sale at manos, stockholm </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tortoiseavocado.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> 100% GOTS certified organic peace silk scarf | naturally hand dyed with avocado peels and geranium blossoms. </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>      
+         <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/newtortoise11.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> indigofera tinctoria "true indigo" on organic handwoven peace silk </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  -->
+           <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/scarves.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> indigofera tinctoria "true indigo" on organic handwoven peace silk </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>                                    
+                                            
+                                            <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/webshop.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Arrifana </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+                               
+<article class='mix '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/logo.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> jalava | ulmus | elm </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+                                            <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/dyepigs.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> dye pigments  </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+               <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/indigolight.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> indigo light </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+               <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/scarfavocado2.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> avocado + lavender </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>                                            <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/indigo.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> true indigo </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>
+    
+             <!-- <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/somethingnew_1.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> working on something new </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>   -->
+                                                    
+             <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/krasse.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> nasturtium, calendula, poppy, sweet william </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>   
+              <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tenugui.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> tenugui </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+                <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/naturaldye.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> rooibos, geranium, peony </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>     
+                                             <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/shirt444.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white">flower dyed vintage silk shirt</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+   
+ 
+        <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/giftwrapped.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> giftwrapped </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/morningbliss.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> morning bliss </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/heart_happiness.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Hi! </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+
+  <!-- <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/care_1.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white">  </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> -->                 
+<!-- <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/03/seeking_sun.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Soothe </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> -->                    
+            
+<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/fabric.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Flower dye: Hötorget flower market </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>          
+ <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tortoise_03.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> tortoise peace silk scarf </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>                                             
+<!-- <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tummy.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Breathe </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> -->
+                                           
+<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/concrete_manos.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> at manos shop </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>   
+<article class='mix textile press '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/elle.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> In the April issue of Elle Decoration </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>            
+  <article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/kalmar.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Kalmar </font> 
+    </h4>     
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/camperbrfst.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> our standard adventure brkfst </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>               
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/burningsky.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Ystad sunset </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>      <!--     <article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/ystadcloud.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Ystad clouds </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>    -->
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/03/ice_2.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Åre mountain walk</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'>
+    </span></span></span></span></div></article>
+            
+<article class='mix nature '>
+    <div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/03/are_mountain.jpg" class="attachment-portfolio-landscape wp-post-image" alt="AITP_poster_A3_final_fullcolour_image" /></span>
+    <span class='text_holder'>
+    <span class='text_outer'>
+    <span class='text_inner'>
+        <div class="hover_feature_holder_title">
+        <div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+           <font color="white"> Åre mountain walk</font> 
+            </h4>
+        </div>
+        </div>
+    <span class='feature_holder'>
+    </span>
+    </span>
+    </span>
+    </span>
+    </div>
+            </article>            
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/03/are_plant.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Åre mountain walk</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+<article class='mix stones '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/bracelets.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Bracelets </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+<article class='mix nature fun '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/02/bruno_surf.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Surf in Lisboa</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+<article class='mix fun '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/02/vertigo.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Climb in Lisboa</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>    
+<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2014/12/zarauts_magic.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Magic in Zarautz</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  
+<article class='mix fun '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/bolos.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Baluard in Barceloneta, Barcelona </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>            
+<!--<article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2014/12/zarauts_bay.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> More Magic in Zarautz</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+ <article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2014/12/zarauts_dog.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> I &#9825 the ocean</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>     -->       
+  <article class='mix nature '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/home.jpg" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Close to home</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>            
+  <!--<article class='mix textile stones'><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tote1.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Floral tote / Kayoko D Tana lawn, liberty art fabrics</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+ <article class='mix textile stones '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/neckandtote_1.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>           -->   
+<!--<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tote2.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Floral tote / Kayoko D Tana lawn, liberty art fabrics</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>--> 
+ <!-- <article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/tote3.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Floral tote / Kayoko D Tana lawn, liberty art fabrics</font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article>  --> 
+<!--<article class='mix textile '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/caring_b.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> awareness </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> 
+<article class='mix '><div class='image_holder'><span class='image'><img width="800" height="600" src="wp-content/uploads/2015/04/smile.png" class="attachment-portfolio-landscape wp-post-image" alt="portfolio" /></span><span class='text_holder'><span class='text_outer'><span class='text_inner'><div class="hover_feature_holder_title"><div class="hover_feature_holder_title_inner"><h4 class="portfolio_title">
+    <font color="white"> Hi! </font> 
+    </h4>
+        </div>
+        </div>
+    <span class='feature_holder'> 
+    </span></span></span></span></div></article> -->
+            
+            
+        
+<!-- ------------------- -->  
+<!-- PHOTOS END HERE ------>  
+<!-- ------------------- -->
